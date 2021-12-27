@@ -10,7 +10,7 @@ if (not defined $len) {
 }
 my $pwd;
 
-# excluding ambiguos characters like "Il1O0o"
+# excluding ambiguous characters like "Il1O0o"
 # there are some special characters I can never remember how to get
 # them from my keyboard, so these are my favorites.
 my @chars = ('A'..'Z','a'..'k','m','n','p'..'z','2'..'9','!','#','%','&','/','(',')','=','?','*','-','_');
